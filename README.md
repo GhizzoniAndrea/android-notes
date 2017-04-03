@@ -1,2 +1,2 @@
 # AndroidNotes
-Android学习笔记。
+Android study notes
